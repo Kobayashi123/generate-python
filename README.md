@@ -32,6 +32,11 @@ $ cd generate-python
 $ python example.py
 ```
 
+4. Set to alias.
+```
+$ alias pygen="python `pwd`/example.py"
+```
+
 ## Licence
 
 [Apache License, Version2.0](https://github.com/Kobayashi123/generate-python/blob/main/LICENSE)
